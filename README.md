@@ -1,7 +1,7 @@
 Lake's QQ Bot
 --
 ### ✅ Features
-nope
+- nope
 ### 🚵‍♀️ Roadmap
 - 通用help指令
 - 群消息记录功能
@@ -11,4 +11,4 @@ nope
 - ayabot
 - WSW bot
 ---
-        2023 JohnHK with 💗
+<div align="center">2023 JohnHK with 💗</div>

@@ -11,4 +11,4 @@ Lake's QQ Bot
 - ayabot
 - WSW bot
 ---
-<div align="center">2023 JohnHK with 💗</div>
+<div align="center">2023 JohnHK & Lake with 💗</div>
